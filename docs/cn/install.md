@@ -2,6 +2,8 @@
 [回目录](../../README.md)
 [下一页](design.md)
 
+[toc]
+
 # 安装
 
 
